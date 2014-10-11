@@ -4,7 +4,7 @@
 # than read.table() or other similar methods. But currently there is an open
 # issue related to fread() wherein na.strings() argument is not handled well. 
 # Thus for this assignment I am using read.table() to read and process data
-# You can refer to Notes.md file under this repo for some additional notes on
+# You can refer to notes.html file under this repo for some additional notes on
 # my observations related to reading data. Although I have used read.table()
 # i have left some code related to reading and processing data through fread()
 # in the file but ofcourse this code is commented
