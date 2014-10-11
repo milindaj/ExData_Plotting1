@@ -1,5 +1,5 @@
 ## plot4.R: Multiple line charts for readings over a period of 2 days
-# I have used read.table() for reading data. See notes.html file under this repo
+# I have used read.table() for reading data. See Notes.md file under this repo
 # for an alternative and better option - fread()
 
 # Read data, specify the format of each variable under colClasses, na.strings is coded as ?
